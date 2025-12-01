@@ -13,5 +13,8 @@ def develop_function():
 def develop_fun2():
     print("This is another development function.")
 
+def fea_develop():
+    print("This is a feature development function.")
+
 if __name__ == "__main__":
     test_function()
