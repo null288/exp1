@@ -10,5 +10,8 @@ def test_function():
 def develop_function():
     print("This is a development function.")
 
+def develop_fun2():
+    print("This is another development function.")
+
 if __name__ == "__main__":
     test_function()
