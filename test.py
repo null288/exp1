@@ -16,5 +16,9 @@ def develop_fun2():
 def fea_develop():
     print("This is a feature development function.")
 
+def fix_bugs():
+    print("This function fixes bugs.")
+
+
 if __name__ == "__main__":
     test_function()
