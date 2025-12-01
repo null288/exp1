@@ -19,6 +19,8 @@ def fea_develop():
 def fix_bugs():
     print("This function fixes bugs.")
 
+def dev2():
+    print('dev2')
 
 if __name__ == "__main__":
     test_function()
