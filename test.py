@@ -22,5 +22,8 @@ def fix_bugs():
 def dev2():
     print('dev2')
 
+def dev():
+    print('dev')
+
 if __name__ == "__main__":
     test_function()
